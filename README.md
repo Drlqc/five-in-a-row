@@ -8,4 +8,4 @@ a new meaningful website https://ai-boson.github.io/mcts/, it clearly shows the 
 
 ##Li,Qichao
 recently, I try some strategies<br>
-1. I limit the span tree into the adjacent places so as to reduce the inefficient effort(since in five-in-a-row game, it almost useless to add piece remote from the existing nodes). As a result, the depth of the MCST increase to 3(used to be less than 2, the complexity is O($k^n$))
+1. I limit the span tree into the adjacent places so as to reduce the inefficient effort(since in five-in-a-row game, it almost useless to add piece remote from the existing nodes). As a result, the depth of the MCST increase to 3(used to be less than 2, the complexity is O({k^n}))
