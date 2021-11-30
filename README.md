@@ -14,4 +14,5 @@ recently, I try some strategies<br>
 3. I try to reset the score we get each time we finish the game.(the way with fewer steps gets higher score: score = 20/depth), it seems a little bit useful, but still not block the player when the player has already had the 3-in-row situation.
 
 # Notice:
+12.1~
 The next step is just to read some articles and try to use them in our own models
