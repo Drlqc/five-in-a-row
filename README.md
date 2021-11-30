@@ -18,7 +18,7 @@ recently, I try some strategies<br>
 The next step is just to read some articles and try to use them in our own models
 
 ## Yang, Luyuan
-#### 30/11/2021--Group-7-add parallel-pool.ipynb
-What I have done: added multi-threading.
-Achieve: now each time, it will simulate 1000 times.(the final print is the total simulation times)
+#### 30/11/2021--Group-7-add parallel.ipynb
+What I have done: added multi-threading ；
+Achieve: now each time, it will simulate 1000 times.(the final print is the total simulation times) ；
 Need to change: add strategy to 堵三子； 继续优化树，感觉1000次的模拟仍然不够！！
