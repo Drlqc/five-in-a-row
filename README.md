@@ -22,3 +22,9 @@ The next step is just to read some articles and try to use them in our own model
 What I have done: added multi-threading ；
 Achieve: now each time, it will simulate 1000 times.(the final print is the total simulation times) ；
 Need to change: add strategy to 堵三子； 继续优化树，感觉1000次的模拟仍然不够！！
+
+## Huang, Suizi
+#### 01/12/2021--Group-7-add 3-in-a-row.ipynb
+What I have done: added 3-in-a-row strategy
+Achieve: It can block when 3 stones in a row, but still might not be in the best way ；
+Need to change: Should we add more situations such as 4-in-a-row?
