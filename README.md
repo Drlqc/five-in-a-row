@@ -28,3 +28,10 @@ Need to change: add strategy to 堵三子； 继续优化树，感觉1000次的�
 What I have done: added 3-in-a-row strategy
 Achieve: It can block when 3 stones in a row, but still might not be in the best way ；
 Need to change: Should we add more situations such as 4-in-a-row?
+
+## Li, Qichao
+#### 08/12/2021--Group-7-6th version.ipynb
+What I have done: add the limit score and the strategy in rollout part
+Achieve: It seems to have the ability to create 3,3 situation by itself；
+Need to change: choose the suitable score and speed up the get_pos strategy.
+
